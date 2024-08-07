@@ -21,3 +21,6 @@ git commit -m "This is the description."
 
 - To see the history of the commit
 git log
+
+- To display each commit on a single line. 
+git log --oneline
