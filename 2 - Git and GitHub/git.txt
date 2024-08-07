@@ -24,3 +24,12 @@ git log
 
 - To display each commit on a single line. 
 git log --oneline
+
+- Branching
+
+- List out all the available branches
+git branch -a 
+
+- Switch to a different branches
+git switch [branch_name]
+git checkout [branch_name]
